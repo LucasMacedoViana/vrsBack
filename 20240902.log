@@ -1,0 +1,6 @@
+ERROR	2024/09/02 10:13:20 {Curso.Create()   pq: INSERT has more expressions than target columns []}
+ERROR	2024/09/02 10:13:20 {CreateCurso()   pq: INSERT has more expressions than target columns []}
+ERROR	2024/09/02 11:18:04 {main.go   failed to listen: listen tcp4 :3000: bind: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). []}
+ERROR	2024/09/02 11:45:21 {Aluno.Create()   pq: INSERT has more expressions than target columns []}
+ERROR	2024/09/02 11:45:21 {CreateAluno()   pq: INSERT has more expressions than target columns []}
+ERROR	2024/09/02 12:00:24 {main.go   failed to listen: listen tcp4 :3000: bind: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). []}
